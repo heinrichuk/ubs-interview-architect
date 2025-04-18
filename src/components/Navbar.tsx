@@ -9,8 +9,8 @@ const Navbar = () => {
     <nav className="bg-white border-b border-gray-200 px-4 py-2.5 fixed w-full top-0 z-50">
       <div className="flex flex-wrap justify-between items-center">
         <div className="flex items-center">
-          <span className="text-ubs-red font-bold text-2xl mr-2">UBS</span>
-          <span className="text-ubs-darkgray text-lg">Architect</span>
+          <span className="text-ubs-red font-bold text-2xl mr-2">GIC</span>
+          <span className="text-ubs-darkgray text-lg">Recruitment Tool</span>
         </div>
         <div className="flex space-x-4">
           <button 
